@@ -12,6 +12,8 @@
 - Kleines Vielecksbein (*Os trapezoideum*)
 - Kopfbein (*Os capitatum*)
 - Hakenbein (*Os hamatum*)
+  - Hamulus ossis hamati "der Haken" am Hakenbein.
+  Bildet zusammen mit *Os pisiforme* die *Eminentia carpi ulnaris*
 
 ### Handwurzelgelenke / Artt. manus
 #### Art. radiocarpalis / Proximales Handgelenk
