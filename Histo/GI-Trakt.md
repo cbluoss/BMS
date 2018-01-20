@@ -70,3 +70,77 @@
 ## Tunica Serosa
 - dünne Schicht aus Bindegewebe, nach aussen abschließend mit Mesothel.
 - z.T. mit Tela subserosa als Verschiebeschicht zw. Darm und Bauchhöhle.
+
+# Nervenplexus
+- Kontrolle über Sympathikus und **Parasympathikus**
+- Wichtige Transmitter:
+    - Actylcholin
+    - NO (Stickstoffmonoxid)
+    - VIP
+
+## Meissner-Plexus
+- Lage in der Submukosa
+
+## Auerbach-Plexus
+- Lage in der Muskularis, zwischen den beiden Schichten.
+- Steuert Darmperistaltik
+
+# Ösophagus
+- ca 25cm lang
+- Verbindung von Mundhöhle und Magen
+- Verhindert Reflux
+- unter Längstspannung
+
+## Mukosa
+- Längstfalten
+- mehrschichtig unverhorntes Epithel
+- distal häufig tubulöse Drüsen
+- **kräftige Muscularis mucosae**
+- viele elastische Fasern in der Lamina propria
+
+## Submukosa
+- muköse Drüsen an beiden Enden
+- Reich an Blutgefäßen
+
+## Muskularis
+- oben aus quergestreifter Skelettmuskulatur
+- unten aus glatter Muskulatur
+- mittig gemeinsames Vorkommen, glatte Muskulatur überwiegt.
+- z.T. verläuft die glatte Muskulatur auch schräg!
+
+## Adventitia/Serosa
+- Fast komplett Adventitia mit vielen Gefäßen und Nerven.
+- Nur kurzes Stück (*Pars abdominalis*) mit Serosa umgeben
+- dichte Venengeflechte (siehe auch Ösophagusvarizen)
+
+# Magen
+- Speicherung und Durchmischung von Nahrung
+- Sekretion von Magensaft, Enzymen, Intrinsic-Factor
+- stark saures Millieu (pH 2) -> Keimabtötung
+- Gliederung in:
+    - Kardia
+    - Korpus
+    - Pars pylorica
+
+## Mukosa
+- Mikrorelief aus Magengrübchen (*Foveolae gastricae*)
+- einschichtig hochprismatisches Epithel
+- Schleimgranula in der oberen Zellhälfte
+- dicht gepackte tubulöse Drüsen
+- Lamina propria gut durchblutet und viele Immunzellen
+
+## Submukosa
+- unauffällig
+
+## Muskularis
+- auch schräg laufende Muskelfasern
+
+## Serosa
+- umgibt den gesamten Magen
+
+## Drüsen
+- Belegzellen (Magensäure)
+- Nebenzellen (Schleimbildung)
+- Hauptzellen (Pepsinogene)
+- Stammzellen (Differenzierung neuer Zellen)
+- Endokrine Zellen (ECL/D/G-Zellen)
