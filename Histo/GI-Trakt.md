@@ -1,3 +1,10 @@
+# Lippe
+- außen mehrschichtig verhornt
+- innen mehrschichtig unverhornt
+    - reich an seromukösen Drüsen
+- Übergang = "Lippenrot" (gut kapilarisiert)
+- innen liegend quergestreifter M. orbicularis oris
+
 # Zunge
 - Zungenkörper im inneren vor allem aus quergestreifen Muskelfaserbündeln in transversaler/vertikaler/longitudinaler Ausrichtung
 - Bedeckt mit Schleimhaut.
@@ -50,6 +57,58 @@
 ## Glandula sublingualis
 - Vorwiegend mukös -> helles Gewebe
 - Nur wenig seröse Endstücke oder Schalt/Streifenstücke
+
+#Zähne
+- Gliederung in Krone, Hals, Wurzel
+- außen harte Substanzen, primär anorganisch, vorallem Hydroxylapatit, wenig organische (Matrix-)Proteine
+    - Schmelz
+        - Bildung durch Adamantoblasten, Zellfrei
+        - nicht regenerationsfähig
+    - Dentin
+        - Bildung durch Odontoblasten (Tomes-Fasern bis zur Schmelz bzw. Zementgrenze
+        - Verankerung von Sharpey-Fasern der Wurzelhaut
+        - vergleichbar zu Knochengewebe
+    - Zement
+        - auch Knochenähnlich
+        - wichtiger Teil des Zahnhalteapperats
+        - Kann Zementozyten enthalten
+
+-innen bindgewebige Zahnpulpa
+    - zellreich
+    - faserarm
+    - peripher eine Schicht aus Odontoblasten(Epithelartig) welche Dentinprismen bilden
+
+## Zahnhalteapparat
+- Zahn steckt mit Wurzel in Alveolen der Kiefer
+- Bindegewebige Verbindung zum Knochen
+
+### Komponenten
+- Zement
+- Desmodont (Wurzelhaut)
+    - füllt den Spalt zwischen Zahnwurzel und Knochen
+    - Bindegewebe (Sharpey-Fasern)
+    - "federnde" Aufhängung der Zähne
+- Alveolarknochen
+    - Lamellenknochen
+    - Rückbildung bei fehlendem Kaudruck
+- Zahnfleisch (Gingiva)
+    - Bedeckt den Knochen
+    - Befestigung am Zahnschmelz durch Basallamina des Saumephithels
+
+## Zahnentwicklung
+Teilung der Bildung zwischen:
+- odontogenem Ektoderm der Mundhöhle und entstehendem ektodermalen Schmelzorgan
+- speziellem Mesenchym, unterhalb des odontogenen Ektoderms. Teilung in Zahnsäckchen und Zahnpapille
+
+### Ektodermale Zahnanlage (Schmelzorgan)
+- äußeres Schmelzepithel
+- inneres Schmelzepithel
+    - prismatische Adamantoblasten (Epithelzellen)
+- dazwischen Schmelzpulpa (lockeres Epithel)
+
+### Mesenchymale Zahnanlage (Papille, Zahnsäckchen)
+    - Papille bildet Zahnpulpa durch Odontoblasten
+    - Zahnsäckchen bilden den späteren Zahnhalteapparat
 
 # allg. Darmwandaufbau (innen -> außen)
 - Tunica mucosa
