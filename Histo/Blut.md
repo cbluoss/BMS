@@ -74,7 +74,6 @@
 - Lymphozyten
 - natürliche Killerzellen
 
-
 ## Erythropoese
 - EPO Stimulation
 - Progenitorzelle -> Proerythroblasten -> basophile Erythroblasten -> orthochromatische Normoblasten -> Kernaustoßung -> Retikulozyten -> Erythrozyten
@@ -87,3 +86,12 @@
 - GM-CSF / M-CSF Stimulation
 - Progenitorzellen -> Monoblasten -> Promonozyten -> Monozyten
 - 1-3 Tage im Blut -> Auswandern ins Interstitium -> Ausreifung zu Makrophagen
+
+## Granulopoese
+- G-CSF Stimulation
+- Progenitorzellen -> Myeloblasten (randständige Kerne, viele Nukleoli) -> Promyelozyten -> Metamyelozyten -> Graunulozyten
+
+## Lymphopoese
+- Lymphoide Progenitorzellen -> Pro-T/Pro-B/Pro-NK-Zellen -> ??? -> Lymphozyten/NK-Zellen
+- Pro-T-Lymphozyten wandern früh vom Knochenmark in den Thymus und Ausreifen
+- Pro-B-Lymphozyten bleiben im Knochenmark, werden zu Prä-B-Lymphozyten -> B-Lymphozyten
