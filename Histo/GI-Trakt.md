@@ -31,6 +31,7 @@
             - Streifenstücke (basal Gestreift)
             - interlobuläre Ausführungsgänge
             - Hauptausführungsgänge
+
 ## Speichelbildung
 - Endstücke bilden *+Primärspeichel**
 - Rückresorbtion von Na/Cl-Ionen in Streifenstücken -> **Sekundärspeichel**
@@ -144,3 +145,146 @@
 - Hauptzellen (Pepsinogene)
 - Stammzellen (Differenzierung neuer Zellen)
 - Endokrine Zellen (ECL/D/G-Zellen)
+
+# Dünndarm
+- Kerckring-Falten / Plicae circulares
+    - knapp 1cm hoch
+    - verlauf quer zum Darm
+    - Gebildet von Mukosa und Submukosa
+- Zotten
+    - Ausstülpungen der Mukosa
+    - ca 0,5 bis 1,0mm lang
+    - einschichtiges Epithel
+    - Zelldifferenzierung:
+        - Enterozyten (Darmepithel mit Bürstensaum, für Nährstoffresorbtion)
+        - Becherzellen ([groß, hell] Schleimbildend)
+- Krypten
+    - Tubuläre Einstülpungen der Mukosa
+    - Enden Blind
+    - Erneuerung des Zottenepithels (Stammzellen)
+    - Paneth-Zellen (u.a. Lysozym, Defensine)
+    - Auch verschiedene endokrine Zellen vorhanden
+    - Lamina Propria mit vielen freien Zellen (Makrophagen, Mastzellen, Plasmazellen etc.)
+    - sehr gute Blut- / Lymphversorgung
+- Mikrovilli
+    - feiner Bürstensaum des Darmepithels
+    - hohe Glykokalix
+
+## Submukosa
+- Scherengitterartige Kollagenfaserstruktur -> Längstdehnung des Darms vong Peristaltik her.
+- Zahlreiche Blut und Lymphgefäße
+- Meissner Plexus
+
+## Muskularis
+- innere Ringmuskelschicht
+- äussere Längstmuskelschicht
+- Auerbach Plexus
+
+## Serosa
+- bedeckt großteil des Dünndarms, Ausnahme: Duodenum
+- Aussen Epithel für das Viszerale Blatt des Peritoneum
+
+## Differenzierung der Dünndarmabschnitte
+### Duodenum
+- tubolo-muköse Brunnerdrüsen! (Schleim, Bikarbonat)
+- Kerckring-Falten: Hoch und dicht
+
+### Jejunum
+- *keine* Brunnerdrüsen
+- *keine* Peyer-Plaques
+
+### Ileum
+- Peyer-Plaques! (Lymphfolikel, Domareal ohne Becherzellen)
+- nur niedrige und weite Kerckring-Falten
+
+# Dickdarm / Colon
+- Rückresorption von Wasser
+- reiche Bakterienflora
+
+## Mukosa
+- keine Zotten, aber Krypten
+- viele, viele Becherzellen
+- endokrine Zellen weit verbreitet
+- Granulozyten, Makrophagen und Plasmazellen häufig
+
+## Muskularis
+- kräftige Ringmuskulatur
+- Längstmuskulatur nur in Form von 3 Streifen
+
+# Appendix vermiformis
+- ähnelt dem Kolon
+- zahlreiche Lymphfolikel
+- 5-10mm Durchmesser -> passt komplett auf Objektträger
+- geschlossene Längsmuskulatur
+
+# Pankreas
+- immer zerfledderte Präparate
+## exokrines Pankreas
+- in Läppchen gegliedert
+- produziert 2l serösen Pankreassaft
+- seröse  azinöse Endstücke -> **Zentroazinäre Zellen** mit hellem Plasma!
+- *keine* Myoepithelzellen in den Azini (im Gegensatz zu Gl. Parotidea)
+- ausgeprägtes Gangsystem endet in interlobulären Gängen
+## endokrines Pankreas -> Langerhans-Inseln
+- Bildung von:
+    - Insulin
+    - Glukagon
+    - Somatostatin
+    - pankreatisches Polypeptid
+- insgesamt etwas heller gefärbt
+- Ein Präparat mit (dunkler) Insulin-Markierung der Langerhans-Inseln
+
+# Leber
+- produziert Galle
+- zentrale Aufgaben in div. Stoffwechselprozessen (Kohlenhydrate, Fette, Eiweiße)
+- Entgiftung
+- Glykogen und Glukosespeicher
+
+## Galle
+- 500-600ml isotone Galle/Tag
+
+### Gallenblase
+#### Mukosa
+- einschichtig, hochprismatisches Epithel
+    - Produktion von Muzinen, Resorbtion von Wasser
+    - kurze, unregelmäßige Mikrovilli
+- keine Lamina muscularis mucosae
+- viele Gefäße
+- unregelmäßige Faltung
+- Krypten vorhanden.
+
+#### Muskularis
+- eher lockere, glatte Muskulatur
+- Faserzüge ungeordnet (Weil Kugel, nicht Schlauch)
+
+#### Serosa
+- ausgeprägte Tela subserosa mit viel Kollagen und elastischen Fasern
+- Tunica Adventitia zur Leber hin, ansonsten Serosa aus Peritonealepithel
+
+## zentrale Leberstrukturen
+### Glission-Trias
+- V. portae
+- A. hepatica propria
+- Gallengang
+
+### Leberläppchen
+- Zentralvene
+- beim Schwein deutlich besser erkennbar
+- grob 6-eckig
+- radiär angeordnete Hepatozyten'balken' (Leberepithelzellen)
+- parallel verlaufende Sinusoide
+    - anliegende Makrophagen = Kupfferzellen (siehe Präparat mit Tuscheinjektion)
+- Gallenpol der Hepatozyten grenzt an Gallenkanälchen (kein eigenes Epithel, nur interzelluläre Lücken)
+
+
+#### Disseraum
+- Schmaler Saum aus Bindegewebe zwischen Endothel der Sinusoide und den Hepatozyzen
+- Entstehungsort d. eiweißreichen 'Leberlymphe'
+- lockere retikuläre Fasern
+- hepatische Sternzellen (Fibroblasten) -> **Ito-Zellen** wenn mit Lipidtropfen gefüllt
+- Mikrovilli der Hepatozyten reichen z.T. in den Disseraum hinein (keine Basallamina)
+
+### Periportalfeld (groß->klein)
+- V. interlobularis
+- A. interlobuluaris
+- Ductus interloblularis (Gallengang)
