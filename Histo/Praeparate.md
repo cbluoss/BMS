@@ -331,6 +331,107 @@
 ## DD:
 - Verwechslung mit Ureter, Blase etc möglich -> kein Urothel
 - Verwechslung mit beliebigem Darmabschnitt:
-	- keine Submukosa
-	- Muskelschichten nicht erkennbar
-	-
+	- *keine Submukosa*
+	- Muskelschichten nicht erkennbar/differenzierbar
+
+# 35 Pankreas, HE
+- Bauspeichelproduktion, ca 2l/Tag
+- starke Segementierung in Läppchen
+- helle, endokrine Inseln (Langerhansinseln)
+	- 20% A-Zellen (Glukagon)
+	- 70% B-Zellen (Insulin)
+	- PP-Zellen (Pankreatisches Polypeptid)
+	- δ-Zellen (Delta)
+	- ε-Zellen (Epsilon)
+- Ausführungsgänge produzieren auch Bikarbonat
+- ansonsten seröses aziönes Drüsengewebe
+    - *zentroazinäre Zellen* (helles Cytoplasma)
+- Gliederung in Kopf, Körper, Schwanz
+
+# 36 Pankreas, Insulinmarkierung
+- deutliche Hervorherbung der B-Zellen der Langerhansinseln
+- ansonsten sie oben
+
+# 37 Milz, T-Lymphozytenmarkierung
+- relativ gleichmäßig verteilte T-Lymphozyten
+- lokale Häufung am Dings PALS (Periarteriole lymphatische Scheide) im inneren der Lymphfolikel (eigentlich B-Zellen)
+- Lymphfolikel (weiße Pulpa)
+- ansonsten rote Pulpa (Blutwäsche)
+- sekundär lymphatisches Organ
+- entbehrlich, Blutwäsche (alter Erys) kann die Leber notfalls alleine
+- Pinselarteriolen enden überwiegend offen, das Blut fließt also einen kurzen Abschnitt extravaskulär
+- Milzsinus = diskontiniuerliches Epithel
+- Bindegewebskapsel
+
+## DD:
+- offensichtlich keine Tonsille -> ergo Milzsinus
+
+# 38 Milz, HE
+- siehe oben.
+
+## DD:
+- Keine Leber weil gefleckt durch weiße Pulpa
+- Keine Pankreas weil keine Drüsen
+
+# 39 Apendix veriformis
+- Typischer Darmaufbau
+- relativ kleines Lumen
+- Lymphfolikel (vgl Peyer-Plaques)
+
+
+# 40 Tonsilla palatina, HE
+- sekundär, lymphatisches Organ
+- Bedeckt mit mehrschichtigem Rachenepithel
+- Krypten mit *Müll* (Speisereste, Bakterien, Makrophagen)
+- reichlich Lymphfolikel z.T. mit Durchdringungszone bis zur Oberfläche
+- Teil des lymphatischen Rachenrings
+
+## DD:
+- *keine Kinozillien/Flimmerepithel*
+
+# 41 Tonsilla palatina, B-Lymphozytenmarkierung
+- deutliche Hervorherbung der Follikel durch hohe Konzentration
+
+# 42 Tonsilla palatina, T-Lymphozytenmarkierung
+- deutliche Häufung ausserhalb der Lymphfolikel
+
+# 43 Tonsilla pharyngea
+- Epithel mit Kinozillien besetzt -> Flimmerepithel
+- Krypten z.T. sehr groß, eher Schluchtenartig
+
+# 44 juveniler Thymus, HE
+- primär lymphatisches Organ
+- Rückbildung und Verfettung im Alter
+- T-Zelldifferenzierung durch:
+	- Ammenzellen
+	- CD4/CD8 Expression
+	    - CD4 -> T-Helferzellen
+	    - CD8 -> zytotoxische T-Zellen
+	- positiv/negativ Selektion
+	- ~95% werden ausgefiltert und phagozytiert
+	- undifferenzierte T-Zellen wandern vom Knochenmark in die Thymusrinde ein.
+	- wandern während der Differenzierung Richtung Mark und anschließend in die Blutbahn
+- unvollständige Separierung der Thymusläppchen
+
+## DD:
+- Hassallkörperchen
+
+# 45 adulter Thymus, HE
+- retrosternaler Fettkörper, Gewebe fast vollständig durch Fett ersetzt, nur kleine Inseln verbleibend
+
+# 46 Lymphknoten, HE
+- eigentlich nur wenige mm groß (Präparat oft riesig)
+- durchsetzt mit Lymphfolikeln
+- viele Vas afferens
+- i.d.R. nur ein Vas efferens am Hilum zusammen mit versorgenden Gefäßen.
+- Lymphe fließt vom Randsinus (keine Artefakte!) über den Intermediärsinus zum Dingssinus und wird währenddessen gefiltert
+
+## DD:
+- Tonsillen: Oberflächenepithel vorhanden
+
+# 47 Lymphknoten, ausgepinselt
+- siehe oben.
+
+## DD:
+- der einzige s/w Blob
+- Lymphfolikel mehr oder weniger gut erkennbar
