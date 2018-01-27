@@ -433,5 +433,159 @@
 - siehe oben.
 
 ## DD:
-- der einzige s/w Blob
+- der einzige schwarz/weiß Blob
 - Lymphfolikel mehr oder weniger gut erkennbar
+
+# 48 Blutaustrich, Pappenheimfärbung
+- vorallem Erythrozyten
+	- 7,5nm Durchmesser
+	- Hämatopoese im roten Knochenmark, rote Linie
+- einige Thrombozyten (ganz kleine Flecken)
+- sehr wenige, aber sehr große Leukozyten
+
+# 49 Blutausstrich vom Kind, Briliantkresylblau
+- Anfärbung von Retikulozyten (Erys mit blauen Punkten drin)
+- Kind weil Proportional mehr Retikulozyten
+
+# 50 Gefäße (+ quergestreifte Muskulatur), HE
+- Dickwandiges Gefäß = Arterie, muskulöser Typ
+	- Intima aus Endothel
+	- Media mit glatter Muskulatur und Vasa Vasorum
+	- Adventitia
+- Dünnwandig entsprechend die Vene
+	- gleicher Wandaufbau, alles dünner, wenig/kaum Muskulatur
+- beide Gefäße mit Erythrozyten gefüllt.
+
+# 51 Aorta, Azan
+- Große Arterie vom elastischen Typ
+- Muskulatur durchzogen von elastischen Fasern -> Windkesselfunktion
+
+# 52 Herzklappen(reste) genauer Trikuspidalklappe, Azan
+- Herzmuskelzellen
+- Anulus fibrosus
+- zerfledderter Rest einer Herzklappe
+- Klappensegel aus Bindegewebe
+
+## DD:
+- Verwechslung mit dem Herzmuskelpräparat möglich, entscheidendes Merkmal: Beidseitiger Anschnitt vom Anulus fibrosum d. Herzklappe.
+
+# 53 Hermuskel, Azan
+- Herzmuskelzellen, im weiteren Sinne quergestreifte Muskulatur
+- Glanzstreifen
+- Gap Junctions zur Erregungsweiterleitung
+- kein echtes Syntizium (vgl quergestreifte Muskulatur), nur 1-2 Kerne je Myokardzelle
+
+# 54 Skelettmuskel im Querschnitt, Masson-Goldner-Färbung
+- quergestreifte Muskulatur
+- Muskelfasern mit Endomysium zu Faserbündeln Perimysium gruppiert.
+- Aussen Epimysium + Faszie
+- Z, I, A, M - Bande
+- Cohnheim-Felderung
+
+# 55 Riechepithel Maus, Toluidinblau
+- Riechschleimhaut
+- Sinneszellen
+- oberste Nasenmuschel
+- ???
+
+# 56 Trachea, HE
+- Hyaline Knorpelspangen
+- Flimmerepithel
+- myochondrodingsbumschicht
+- Dorsal zum Ösophagus offen, Getrennt durch Musculus trachealis(?) und Bindegewebsschicht
+- Drüsen möglich
+
+# 57 Lunge, HE
+- Bronchien (Haupt, Lappen, Segment)
+	- Knorpelplatten, zirkulär um das Lumen
+- Bronchiolen
+	- kein Knorpel mehr
+	- keine Drüsen mehr
+- Bronchioli terminalis
+- Bronchioli alveolares
+- Surfactant (Typ II Pneumozyten)
+- Blut-Luft-Schranke (Endothel-Basallamina-Pneumozyt (Typ1))
+- Alveolen
+- Truncus mit Gefäßein/austritt
+
+## DD:
+- reinkucken damit mans nicht mit ner Drüse verwechselt (Nebenniere oder so)
+- kein Ausführungsgänge oder so (Mamma lactans)
+
+# 58 Lunge, Semidünnschnitt (ca 1µm), Toluidinblau & Methylenblau
+- siehe oben #57
+
+# 59 Mamma non lactans, HE
+- unspektakuläres lockeres Bindegewebe
+- wenige Adipozyten
+- wenige inaktive Drüsen
+
+## DD:
+- Trotzdem reinmikroskopieren um es als Bindegewebe zu erkennen. Makroskopisch Verwechslung mit Drüsengewebe möglich
+
+# 60 Mamma lactans, HE
+- Alveoläre, apokrine Milchdrüsen überall
+- Fettgewebe hier und da
+- Ausführungsgänge für Milchdrüsen
+	- Wasser
+	- Lipide
+	- Ig M?
+	- Lactose
+	- Everything the body needs
+
+# 61 Ovar mit Tertiärfollikeln, HE
+- Rinde aus Epithel, kubisch (Müllerepithel)
+- Rinde aus spinozellulärem Bindegewebe
+- Rinde mit Primordialfollikeln
+- Primärfollikel
+- Sekundärfollikel
+- Tertiärfollikel?
+- Graaf-Follikel
+- Gelbkörper
+- Zentrales Dingsbums im Mark (nicht alle Präparate)
+
+# 62 Ovar, HE
+- siehe #61
+
+## DD:
+- Die meisten Präparate haben einen reifen Graaf-Follikel
+- Ausgelöste Follikel mit lokaler Blutung
+- Immer noch nicht sicher, dass die Benennung von 61/62 nicht vertauscht wurde.
+
+# 63 Tube, HE
+- Lumen mit Labyrinthartiger Faltung
+- Primär/Sekundär/Tertiärfaltung
+- Ort der Befruchtung
+- ca 2mm Durchmesser
+- hochprismatisches Epithel, Flimmerepithel zum Follikeltransport Richtung Uterus
+- Muskularis nimmt richtung Uterus deutlich zu
+
+# 64 Uterus, Masson-Goldner-Färbung
+- Kapsel aus Perimetrium
+- Richtig dickes Myometrium
+- Verhältnismäßig dünnes Endometrium
+	- Stratum basale
+	- Stratum functionale
+- Zyklusabhängig
+
+# 65 Plazenta mit Dizidua, HE
+- Zotten (alle zum Kind gehörend)
+- Blut-Plazenta-Schrank
+	- Endothel-Basallamina-Zottenepithel
+	- ähnlich Selektiv wie Blut-Hirn-Schranke
+- kein Mischblut
+- Mütterliche Dizidua
+	- große und relativ dichte Zellen
+	- keine prägnanten Gefäße
+	- Anständige Haftzotten
+
+# 66 Plazenta mit Chorionplatte, HE
+- siehe 65
+- kindliches Ende (Chorionplatte)
+	- kleine Zellen
+	- reich an Gefäßen
+	- auf der anderen Seite d. Fruchtblase mit Fruchtwasser
+
+## DD:
+- #65 siehe unterschied Chorion vs Dizidua
+- Plexus choroideus (Makroskopisch sichtbare Unterschiede, Plazentapräparate deutliche homogener)
