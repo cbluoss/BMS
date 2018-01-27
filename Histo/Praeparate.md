@@ -589,3 +589,136 @@
 ## DD:
 - #65 siehe unterschied Chorion vs Dizidua
 - Plexus choroideus (Makroskopisch sichtbare Unterschiede, Plazentapräparate deutliche homogener)
+
+# 67 Nabelschnurr
+- Wartonsülze - gallertartiges Bindegewebe
+- 2 Arterien
+- 1 Vene
+
+# 68 Vagina, HE
+- mehrschichtig unverhorntes Epithel
+- Glykogenreiches Stratum superfisciale
+- 12-20cm langer Muskelschlauch
+- reichliche lockeres Bindegewebe für Dehnbarkeit
+- leicht saures Millieu (Milchsäurebakterien)
+- viele Kapilare
+
+# 69 Hoden samt Nebenhoden, Katze, Azan
+- Ort der Spermatogenese
+- Nebenhoden = Knäuel des einen Ductus spermaticus
+- Leydigzellen im Zwischenraum für Testosteron
+- ???
+
+# 70 Hoden von der Maus
+- siehe 69
+
+# 71 Samenstrang / Ductus deferens, HE
+- ductus deferens mit absurd dicker Muskularis für ordentlich Druck auf der Leitung
+- Reihe von Gefäßen
+- Muskulus cremaster
+- Bindegewebe, Adipozyten, bla bla
+
+# 72 Prostata
+- voll mit großen alveolaren Sekretdrüsen
+- optisch ähnlich zur Lunge oder Thyroida
+- stark ausgeprägte Segmentierung durch Septen
+
+# 73 Penis - uninteressant
+
+# 74 Ureter, HE
+- *Urothel* mit Schirmzellen
+- Muskularis
+- keine Submukosa (DD zum Darm)
+- Sternförmiges Lumen
+- < 1cm Durchmesser
+- 20-30cm lang
+- Verbindet Nierenbecken mit Blase
+
+# 75 Harnblase, HE
+- Urothel mit Krusta
+- stark gefaltet für Volumenzuname
+- chaotische Muskularis mit Muskelsträngen in alle Richtungen
+- keine Submukosa
+- viel größer als der Ureter bei ähnlichem Wandaufbau
+
+# 76 Niere Mensch, HE
+- Rinde
+- Mark(pyramiden)
+- Nephron als kleinste Baueinheit (Glomeruli+Tubulus)
+- ~200l Primärharn -> 1-2l Sekundärharn
+- Pyramiden enden mit den Sammelrohren in Nierenkelche -> Nierenbecken -> Nierenhilum -> Ureter
+- Mark/Rindenübergang durch A. arquate markiert
+- Markstreifen = Sammelrohre
+
+# 77 Niere, Schwein, HE
+-siehe #76
+
+# 78 Niere, Maus, Toluidinblau
+- siehe #76
+
+# 79 Nebenniere, HE
+- grob dreieckige Grundform
+- zentrale Drosselvene
+- Rinde und Mark
+- Hormonproduktion
+- neuraler Ursprung
+
+# 80 Thyreoida, HE
+- Präparat grob "gehirnförmig"
+- endokrine Drüse
+- Verwechselbar mit alveolären Drüsen durch große dingsbums-Vesikel zur Thyriod-Speicherung
+- Jodierung von Thyriod zu T4, etwas T3
+- T4->T3-Wandlung primär in der Zielzelle
+- T4 ca 3x potenter als T4
+- Calcitonin
+- Ursprung im Mundboden und sackt dann ab
+
+# 81 Glandula Parathyreoidea, Azan
+- ca Gerstenkorngroß also sehr klein!
+- Parathormon
+- 4 Stück
+- reich an Adipozyten
+- Zellen sehr unterschiedlich gefärbt (vgl. Adenohypopyhse)
+
+# 82 Hypophyse
+- Adenohypopyhse
+	- Anlage aus Gaumen
+	- Produziert lustig Hormone, u.a. Wachstumshormone
+- basophile/eosinophile/chromophobe Zellen
+- Neurohypophyse
+	- nur Axone mit Hormonvesikeln und Gefäße. keine Nervenzellen (Liegen im Hypothalamus)
+	- etwas Stützgewebe
+
+# 83 Plexus choroideus, HE
+- produzierien Liquor
+- bildet Blut-Hirn-Schranke
+	- Astrozyten+Basallamina+Endothel
+
+# 84 Großhirn, Tolouidinblau
+
+# 85 Kleinhirn, HOPA
+- Färbung ist eindeutig
+
+# 86 Rückenmark, Klüver-Barrera
+- Hübsch blaues Präparat
+- Schmetterlingsform
+- außen weiße Substanz, innen Grau (invers zum Gehirn)
+
+# 87 Spinalganglion, Azan
+- große Alphamotoneuronen im Vorderhorn
+
+# 88 peripherer Nerv, querschnitt, Azan
+- keine Nervenzellen, nur Schwannzellen und Fibrozyten
+
+# 89 N. femoralis, osmiert
+- das zweite schwarz/weiße Präparat, aber kein klumpen
+
+# 90 Augenlid, Azan
+## DD:
+- Lippe
+
+# 92 Cornea, HE
+- aussen mehrreihig unverhornt
+- hinten flach einreihig.
+- dazwischen Stroma
+	- regelmäßiger parallelfaseriger Aufbau für gute Lichtdurchlässigkeit
