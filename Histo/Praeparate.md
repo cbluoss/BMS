@@ -43,7 +43,7 @@
 	- Dickes Corneum
 	- Keine Haare
 
-# 3, Achselhaut, HE,, Felderhaut
+# 3, Achselhaut, HE, Felderhaut
 ## DD:
 - riesige apokrine Schweißdrüsen
 - apokrine Duftdrüsen ("Duft" erst durch bakterielle Zersetzung)
@@ -481,6 +481,7 @@
 - Aussen Epimysium + Faszie
 - Z, I, A, M - Bande
 - Cohnheim-Felderung
+- Aktin + Myosin
 
 # 55 Riechepithel Maus, Toluidinblau
 - Riechschleimhaut
@@ -504,7 +505,7 @@
 - Bronchioli terminalis
 - Bronchioli alveolares
 - Surfactant (Typ II Pneumozyten)
-- Blut-Luft-Schranke (Endothel-Basallamina-Pneumozyt (Typ1))
+- Blut-Luft-Schranke (Endothel-Basallamina-Pneumozyt (Typ1)-Surfactant)
 - Alveolen
 - Truncus mit Gefäßein/austritt
 
@@ -531,7 +532,9 @@
 	- Lipide
 	- Ig M?
 	- Lactose
-	- Everything the body needs
+	- Everything the [baby] body needs
+- Stimulation durch oxytocin und Saugreflex
+- Umformung des Gewebes durch Progesteron und Prolaktin
 
 # 61 Ovar mit Tertiärfollikeln, HE
 - Rinde aus Epithel, kubisch (Müllerepithel)
@@ -605,7 +608,10 @@
 
 # 69 Hoden samt Nebenhoden, Katze, Azan
 - Ort der Spermatogenese
-- Nebenhoden = Knäuel des einen Ductus spermaticus
+	- 4 x 16 Tage
+	- Sertolizellen (Ammenzellen) sitzen an der Basallamina und trennen die Spermatogonien vom Lumen
+- Nebenhoden = Knäuel des einen Ductus epididymidis
+- Kanäle im Hoden selbst sind parallelisiert
 - Leydigzellen im Zwischenraum für Testosteron
 - ???
 
@@ -647,7 +653,7 @@
 - Nephron als kleinste Baueinheit (Glomeruli+Tubulus)
 - ~200l Primärharn -> 1-2l Sekundärharn
 - Pyramiden enden mit den Sammelrohren in Nierenkelche -> Nierenbecken -> Nierenhilum -> Ureter
-- Mark/Rindenübergang durch A. arquate markiert
+- Mark/Rindenübergang durch Aa. arquate markiert
 - Markstreifen = Sammelrohre
 
 # 77 Niere, Schwein, HE
@@ -659,7 +665,12 @@
 # 79 Nebenniere, HE
 - grob dreieckige Grundform
 - zentrale Drosselvene
-- Rinde und Mark
+- Mark
+	- Noradrenalin + Adrenalin
+- Rinde
+	- Zona glomerulosa (Kortikoide, z.B Aldestoron)
+	- Zona fasciculata (Glukokortikoide wie Kortisol)
+	- Zona reticlularis (Androgene)
 - Hormonproduktion
 - neuraler Ursprung
 
@@ -671,11 +682,13 @@
 - T4->T3-Wandlung primär in der Zielzelle
 - T4 ca 3x potenter als T4
 - Calcitonin
+	- senkt Kalziumspiegel, hemmt Osteoklasten
 - Ursprung im Mundboden und sackt dann ab
 
 # 81 Glandula Parathyreoidea, Azan
 - ca Gerstenkorngroß also sehr klein!
 - Parathormon
+	- Calcitonin-Gegenspieler, erhöht Kalziumspiegel
 - 4 Stück
 - reich an Adipozyten
 - Zellen sehr unterschiedlich gefärbt (vgl. Adenohypopyhse)
@@ -698,6 +711,11 @@
 
 # 85 Kleinhirn, HOPA
 - Färbung ist eindeutig
+- koordiniert (unbewusste Motorik)
+- S. moleculare
+- S. prukinjense (mit riesigen Purkinje-Zellen)
+- S. granulosum (Körnerzellen)
+- Moos und Kletterfasern
 
 # 86 Rückenmark, Klüver-Barrera
 - Hübsch blaues Präparat
@@ -706,6 +724,7 @@
 
 # 87 Spinalganglion, Azan
 - große Alphamotoneuronen im Vorderhorn
+- aufsteigende, sensorische Leitungsbahnen im Hinterhorn
 
 # 88 peripherer Nerv, querschnitt, Azan
 - keine Nervenzellen, nur Schwannzellen und Fibrozyten
